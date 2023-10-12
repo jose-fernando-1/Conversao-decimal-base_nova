@@ -1,0 +1,3 @@
+C:/Users/josef/Desktop/ConversaoDecimal/cmake-build-debug/CMakeFiles/ConversaoDecimal.dir
+C:/Users/josef/Desktop/ConversaoDecimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josef/Desktop/ConversaoDecimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
